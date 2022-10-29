@@ -1,5 +1,4 @@
 # SmartBrain-api - Dockerized
-Final project for ZTM course - using Docker
 
 1. Clone this repo
 2. run `npm install`
